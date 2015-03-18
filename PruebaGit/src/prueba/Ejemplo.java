@@ -11,6 +11,7 @@ public class Ejemplo {
 		
 	    Utiles.metodo1("Pepe");
 	    
+	    System.out.println("Test 1");
 	    
 	}
 
